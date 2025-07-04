@@ -1,5 +1,3 @@
-// components/ErrorProneComponent.tsx
-
 import React from 'react';
 
 const ErrorProneComponent: React.FC = () => {
